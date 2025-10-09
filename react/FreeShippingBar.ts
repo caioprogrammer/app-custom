@@ -1,0 +1,3 @@
+import { FreeShippingBar } from './components/FreeShippingBar'
+
+export default FreeShippingBar

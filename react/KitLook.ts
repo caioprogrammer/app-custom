@@ -1,0 +1,3 @@
+import { KitLook } from './components/KitLook'
+
+export default KitLook

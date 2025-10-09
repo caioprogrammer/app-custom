@@ -1,0 +1,161 @@
+{
+  "definitions": {
+    "MainMenu": {
+      "properties": {
+        "customLinks": {
+          "type": "array",
+          "title": "Links customizadods",
+          "items": {
+            "$ref": "app:suntime.commercegrowth-custom#/definitions/CustomLinks"
+          }
+        }
+      }
+    },
+    "CustomLinks": {
+      "properties": {
+        "name": {
+          "type": "string",
+          "title": "Título do link"
+        },
+        "href": {
+          "type": "string",
+          "title": "Link"
+        },
+        "order": {
+          "type": "number",
+          "title": "Posição"
+        },
+        "banners": {
+          "type": "array",
+          "title": "Banner",
+          "items": {
+            "$ref": "app:suntime.commercegrowth-custom#/definitions/MenuBanners"
+          }
+        },
+        "hasChildren": {
+          "type": "boolean",
+          "title": "Possui Filhos?"
+        },
+        "children": {
+          "type": "array",
+          "title": "Submenu",
+          "items": {
+            "$ref": "app:suntime.commercegrowth-custom#/definitions/CustomLinksItem"
+          }
+        }
+      }
+    },
+    "MenuBanners": {
+      "properties": {
+        "link": {
+          "type": "string",
+          "title": "Link do Banner"
+        },
+        "name": {
+          "type": "string",
+          "title": "Descrição do Banner"
+        },
+        "image": {
+          "title": "Imagem",
+          "type": "string",
+          "widget": {
+            "ui:widget": "image-uploader"
+          }
+        }
+      }
+    },
+    "CustomLinksItem": {
+      "properties": {
+        "name": {
+          "type": "string",
+          "title": "Título do Submenu",
+          "default": null
+        },
+        "href": {
+          "type": "string",
+          "title": "Link do Submenu",
+          "default": null
+        },
+        "order": {
+          "type": "number",
+          "title": "Posição do Submenu",
+          "default": null
+        },
+        "children": {
+          "type": "array",
+          "title": "Submenu",
+          "items": {
+            "properties": {
+              "name": {
+                "type": "string",
+                "title": "Título do link"
+              },
+              "href": {
+                "type": "string",
+                "title": "Link"
+              }
+            }
+          }
+        }
+      }
+    },
+    "BannerCarousel": {
+      "type": "object",
+      "properties": {
+        "items": {
+          "title": "Banners",
+          "type": "array",
+          "items": {
+            "properties": {
+              "imageDesktop": {
+                "title": "Imagem Desktop",
+                "type": "string",
+                "$ref": "app:vtex.native-types#/definitions/url",
+                "widget": {
+                  "ui:widget": "image-uploader"
+                }
+              },
+              "imageMobile": {
+                "title": "Imagem Mobile",
+                "type": "string",
+                "$ref": "app:vtex.native-types#/definitions/url",
+                "widget": {
+                  "ui:widget": "image-uploader"
+                }
+              },
+              "videoDesktop": {
+                "title": "Video Desktop",
+                "type": "string",
+                "default": null
+              },
+              "videoMobile": {
+                "title": "Video Mobile",
+                "type": "string",
+                "default": null
+              },
+              "link": {
+                "title": "link",
+                "type": "string",
+                "default": null
+              }
+            }
+          }
+        },
+        "time": {
+          "type": "string",
+          "title": "Tempo de passagem de banners(EX: 5 segundos = 5)",
+          "default": 5
+        }
+      }
+    },
+    "Instagram": {
+      "type": "object",
+      "properties": {
+        "token": {
+          "type": "string",
+          "token": "Token to Instagram"
+        }
+      }
+    }
+  }
+}

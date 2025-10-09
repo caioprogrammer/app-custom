@@ -1,0 +1,3 @@
+import ShelfSliderCustom from './components/ShelfSliderCustom'
+
+export default ShelfSliderCustom

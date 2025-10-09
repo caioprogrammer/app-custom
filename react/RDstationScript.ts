@@ -1,0 +1,3 @@
+import { RDstationScript } from './components/RDstationScript'
+
+export default RDstationScript

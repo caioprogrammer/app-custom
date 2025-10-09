@@ -1,0 +1,106 @@
+{
+  "cg-main-menu": {
+    "component": "MainMenu",
+    "render": "server",
+    "content": {
+      "$ref": "app:atelierjuliafantin.commercegrowth-custom#/definitions/MainMenu"
+    }
+  },
+  "cg-custom-header": {
+    "component": "Header",
+    "render": "server"
+  },
+  "cg-minicart-totalizers": {
+    "component": "MinicartTotalizers",
+    "render": "server"
+  },
+  "cg-instagram": {
+    "component": "Instagram",
+    "render": "server",
+    "content": {
+      "$ref": "app:atelierjuliafantin.commercegrowth-custom#/definitions/Instagram"
+    }
+  },
+  "cg-banner-carousel": {
+    "component": "BannerCarousel",
+    "render": "server",
+    "content": {
+      "$ref": "app:atelierjuliafantin.commercegrowth-custom#/definitions/BannerCarousel"
+    }
+  },
+  "cg-free-shipping-bar": {
+    "component": "FreeShippingBar"
+  },
+  "search-button": {
+    "component": "SearchButton"
+  },
+  "cg-slider-product": {
+    "component": "SliderProduct",
+    "render": "server"
+  },
+  "cg-shelf-slider-custom": {
+    "component": "ShelfSliderCustom",
+    "render": "server"
+  },
+  "cg-shelf-variations": {
+    "component": "ShelfVariations"
+  },
+  "cg-lgpd": {
+    "component": "LGPD"
+  },
+  "cg-script-rdstation": {
+    "component": "RDstationScript"
+  },
+  "cg-newsletter-popup": {
+    "component": "NewsletterPopup",
+    "composition": "children"
+  },
+  "cg-newsletter-form": {
+    "component": "NewsletterForm",
+    "composition": "children"
+  },
+  "cg-kit-look": {
+    "composition": "children",
+    "component": "KitLook"
+  },
+  "cg-conditional-kit": {
+    "component": "ConditionalKit",
+    "composition": "children"
+  },
+  "cg-sustentabilidade-form": {
+    "component": "SustentabilidadeForm"
+  },
+  "cg-sobmedida-slider": {
+    "component": "SobMedidaSlider"
+  },
+  "cg-sobmedida-form": {
+    "component": "SobMedidaForm"
+  },
+  "cg-sobmedida-pdp-button": {
+    "component": "SobMedidaButton"
+  },
+  "cg-fale-conosco-form": {
+    "component": "FaleConoscoForm"
+  },
+  "cg-kitlook-prices": {
+    "component": "KitLookPrices",
+    "composition": "children"
+  },
+  "cg-login-button": {
+    "component": "LoginButton",
+    "composition": "children"
+  },
+  "cg-wishlist-product-count": {
+    "component": "WishlistProductCount"
+  },
+  "cg-avaibility-popup": {
+    "component": "AvaibilityPopup",
+    "composition": "children"
+  },
+  "cg-category-pagination": {
+    "component": "CategoryPagination"
+  },
+  "cg-product-description": {
+    "component": "ProductDescription"
+  }
+}

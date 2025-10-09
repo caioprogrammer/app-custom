@@ -1,0 +1,3 @@
+import { AvaibilityPopup } from './components/AvaibilityPopup'
+
+export default AvaibilityPopup

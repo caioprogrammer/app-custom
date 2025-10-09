@@ -1,0 +1,3 @@
+import { SobMedidaButton } from './components/SobMedidaButton'
+
+export default SobMedidaButton

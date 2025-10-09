@@ -1,0 +1,3 @@
+import { SobMedidaSlider } from './components/SobMedidaSlider'
+
+export default SobMedidaSlider

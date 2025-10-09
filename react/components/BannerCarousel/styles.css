@@ -1,0 +1,28 @@
+:global(.suntime-commercegrowth-custom-0-x-bannercarousel) {
+  
+  :global(.suntime-commercegrowth-custom-0-x-bannercarousel__dots--home__banner--1){
+    
+    :global(.swiper-pagination-bullet) {
+      background-color: transparent;
+      border: solid 1px #fff;
+      opacity: 1;
+    }
+
+    :global(.swiper-pagination-bullet-active) {
+      /* background-color: #fff; */
+      position: relative;
+      
+      &::before{
+        content: "";
+        display: block;
+        width: 6px;
+        height: 6px;
+        background-color: #fff;
+        position: absolute;
+        left: 1px;
+        top: 1px;
+        border-radius: 50%;
+      }
+    }
+  }
+}

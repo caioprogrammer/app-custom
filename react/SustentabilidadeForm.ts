@@ -1,0 +1,3 @@
+import { SustentabilidadeForm } from './components/SustentabilidadeForm'
+
+export default SustentabilidadeForm

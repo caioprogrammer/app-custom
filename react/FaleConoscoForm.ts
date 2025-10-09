@@ -1,0 +1,3 @@
+import { FaleConoscoForm } from './components/FaleConoscoForm'
+
+export default FaleConoscoForm

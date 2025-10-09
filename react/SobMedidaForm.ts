@@ -1,0 +1,3 @@
+import { SobMedidaForm } from './components/SobMedidaForm'
+
+export default SobMedidaForm

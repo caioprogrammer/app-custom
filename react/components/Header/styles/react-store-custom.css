@@ -10,16 +10,20 @@
     font-weight: 400;
   }
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) {
   background: linear-gradient(180deg, rgba(0, 0, 0, 0.5), transparent);
 }
+
 @media (min-width: 1025px) {
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover {
     background: #fff;
   }
+
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
     color: #737678 !important;
   }
+
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--lupa),
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist),
@@ -27,6 +31,7 @@
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--logo) {
     filter: brightness(1);
   }
+
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--lupa)::before,
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist)::before,
@@ -34,10 +39,12 @@
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--logo)::before {
     filter: brightness(1);
   }
+
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer) :global(.vtex-minicart-2-x-minicartQuantityBadgeDefault) {
     color: #fff;
   }
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--lupa),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
@@ -46,6 +53,7 @@
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--logo) {
   filter: brightness(10);
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--lupa)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
@@ -54,23 +62,29 @@
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--logo)::before {
   filter: brightness(10);
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer) :global(.vtex-minicart-2-x-minicartQuantityBadgeDefault) {
   color: #000;
 }
+
 @media (min-width: 1025px) {
   :global(.render-route-store-home) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) {
     border: 0;
   }
+
   :global(.render-route-store-home) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
     color: #fff !important;
   }
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) {
   background: #fff;
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
   color: #737678 !important;
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--lupa),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
@@ -79,6 +93,7 @@
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--logo) {
   filter: brightness(1);
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--lupa)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
@@ -87,11 +102,13 @@
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--logo)::before {
   filter: brightness(1);
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--main-header) {
   width: 100%;
   z-index: 999;
   position: absolute;
 }
+
 @media (min-width: 1025px) {
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
     color: #737678 !important;
@@ -105,6 +122,7 @@
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--logo) {
   filter: brightness(1);
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--lupa)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
@@ -113,6 +131,7 @@
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--logo)::before {
   filter: brightness(1);
 }
+
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer) :global(.vtex-minicart-2-x-minicartQuantityBadgeDefault) {
   color: #fff;
 }
@@ -120,6 +139,7 @@
 :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-disclosure-layout-1-x-trigger--header__search--mobile--visible)::before {
   top: 125px;
 }
+
 @media (min-width: 1025px) {
   :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-disclosure-layout-1-x-trigger--header__search--mobile--visible)::before {
     top: 155px;
@@ -148,6 +168,7 @@
     justify-content: center;
   }
 }
+
 @media all and (max-width: 1024px) {
   :global(.vtex-flex-layout-0-x-flexRowContent--header__content) :global(.items-stretch):nth-child(3) {
     justify-content: flex-end;
@@ -167,6 +188,7 @@
   opacity: 1;
   position: relative;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-slider__dots) :global(.swiper-pagination-bullet-active)::before {
   content: "";
   width: 6px;
@@ -204,6 +226,7 @@
   text-transform: lowercase;
   text-underline-offset: 2px;
 }
+
 :global(.vtex-address-form__postalCode-forgottenURL) :global(.vtex__icon-external-link) {
   display: none;
 }
@@ -231,17 +254,20 @@
   height: min-content;
   max-width: 90%;
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) {
   flex-direction: column-reverse;
   align-items: flex-end;
   background: #fff;
   opacity: 1;
 }
+
 @media all and (min-width: 1024px) {
   :global(.vtex-toast-container) :global(.vtex-toast) {
     padding: 20px;
   }
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) :global(div) {
   display: block;
   width: 100%;
@@ -250,6 +276,7 @@
   padding: 0;
   position: relative;
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.pr5.mw6-ns.lh-copy) {
   color: #d392a0;
   font-family: "Ubuntu Condensed";
@@ -262,6 +289,7 @@
   max-width: 100%;
   padding-right: 10px;
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.vtex-button) {
   border: 1px solid #626567;
   border-radius: 0;
@@ -270,10 +298,12 @@
   margin-top: 24px;
   transition: 0.3s;
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.vtex-button):hover {
   background: #fce9f1;
   border-color: transparent;
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.vtex-button) :global(.vtex-button__label) {
   color: #626567;
   font-family: "Ubuntu Condensed";
@@ -284,6 +314,7 @@
   letter-spacing: 0.56px;
   text-transform: lowercase;
 }
+
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.vtex__icon-close) {
   color: #34354c;
   position: absolute;
@@ -295,6 +326,7 @@
   position: initial;
   margin-top: 50px;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li),
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li button) {
   width: 6px;
@@ -302,6 +334,7 @@
   padding: 0;
   margin: 0 8px;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li button:before) {
   width: 6px;
   height: 6px;
@@ -311,6 +344,7 @@
   font-size: 0;
   opacity: 1;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li.slick-active button:before) {
   background: #34354c;
   opacity: 1;
@@ -323,16 +357,19 @@
     flex-direction: row;
   }
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) li {
   display: inline;
   margin: 0;
   width: 100%;
   height: 5px;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) button {
   width: 100%;
   height: 5px;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) button::before {
   content: "";
   width: 100%;
@@ -340,6 +377,7 @@
   opacity: 1;
   background: #fff;
 }
+
 :global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-active) button::before {
   background: #000;
 }
@@ -352,6 +390,7 @@
 :global(.vtex-availability-notify-1-x-notiferContainer:has(.vtex-availability-notify-1-x-success)) :global(.vtex-availability-notify-1-x-notifyLabel) {
   display: none;
 }
+
 :global(.vtex-availability-notify-1-x-notiferContainer:has(.vtex-availability-notify-1-x-success)) :global(.vtex-availability-notify-1-x-title::after) {
   font-size: 0 !important;
 }
@@ -379,6 +418,7 @@
   justify-content: center;
   position: relative;
 }
+
 :global(.vtex-login-2-x-inputContainer .w-20 > .t-small)::after {
   content: "";
   width: 2px;
@@ -387,6 +427,7 @@
   position: absolute;
   background-color: red;
 }
+
 :global(.vtex-login-2-x-inputContainer .w-20 > .t-small)::before {
   content: "";
   width: 2px;
@@ -489,11 +530,13 @@
 :global(.vtex-store-components-3-x-carouselGaleryThumbs--product__image .swiper-wrapper) {
   overflow-y: auto;
 }
+
 @media (min-width: 1080px) {
   :global(.vtex-store-components-3-x-carouselGaleryThumbs--product__image .swiper-wrapper) {
     transform: unset !important;
   }
 }
+
 :global(.vtex-store-components-3-x-carouselGaleryThumbs--product__image .swiper-wrapper)::-webkit-scrollbar {
   display: none;
 }

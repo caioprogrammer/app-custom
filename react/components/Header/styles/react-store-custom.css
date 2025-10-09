@@ -3,8 +3,8 @@
 }
 
 @media all and (min-width: 1024px) {
-  :global(.vtex-store-header-2-x-headerStickyRow--transparent):hover :global(.suntime-commercegrowth-custom-0-x-mainMenu) :global(.suntime-commercegrowth-custom-0-x-mainMenuItem) :global(.suntime-commercegrowth-custom-0-x-mainMenuItemLink):hover,
-  :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.suntime-commercegrowth-custom-0-x-mainMenu) :global(.suntime-commercegrowth-custom-0-x-mainMenuItem) :global(.suntime-commercegrowth-custom-0-x-mainMenuItemLink):hover {
+  :global(.vtex-store-header-2-x-headerStickyRow--transparent):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItem) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink):hover,
+  :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItem) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink):hover {
     color: #000;
     font-weight: 400;
     border-bottom: 2px solid #d392a0;
@@ -17,17 +17,17 @@
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover {
     background: #fff;
   }
-  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.suntime-commercegrowth-custom-0-x-mainMenuItemLink) {
+  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
     color: #737678 !important;
   }
-  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.suntime-commercegrowth-custom-0-x-LoginButton),
+  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--lupa),
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist),
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer),
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--logo) {
     filter: brightness(1);
   }
-  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.suntime-commercegrowth-custom-0-x-LoginButton)::before,
+  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--lupa)::before,
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist)::before,
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground):hover :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer)::before,
@@ -38,17 +38,17 @@
     color: #fff;
   }
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.suntime-commercegrowth-custom-0-x-LoginButton),
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--lupa),
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.suntime-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--logo) {
   filter: brightness(10);
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.suntime-commercegrowth-custom-0-x-LoginButton)::before,
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--lupa)::before,
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.suntime-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) :global(.vtex-store-components-3-x-imageElement--logo)::before {
@@ -58,30 +58,30 @@
   color: #000;
 }
 @media (min-width: 1025px) {
-  :global(.render-route-store-home) :global(.suntime-commercegrowth-custom-0-x-mainMenu) {
+  :global(.render-route-store-home) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) {
     border: 0;
   }
-  :global(.render-route-store-home) :global(.suntime-commercegrowth-custom-0-x-mainMenu) :global(.suntime-commercegrowth-custom-0-x-mainMenuItemLink) {
+  :global(.render-route-store-home) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
     color: #fff !important;
   }
 }
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) {
   background: #fff;
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.suntime-commercegrowth-custom-0-x-mainMenuItemLink) {
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
   color: #737678 !important;
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.suntime-commercegrowth-custom-0-x-LoginButton),
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--lupa),
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.suntime-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--logo) {
   filter: brightness(1);
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.suntime-commercegrowth-custom-0-x-LoginButton)::before,
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--lupa)::before,
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.suntime-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground--white) :global(.vtex-store-components-3-x-imageElement--logo)::before {
@@ -93,21 +93,21 @@
   z-index: 999;
 }
 @media (min-width: 1025px) {
-  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.suntime-commercegrowth-custom-0-x-mainMenu) :global(.suntime-commercegrowth-custom-0-x-mainMenuItemLink) {
+  :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {
     color: #737678 !important;
   }
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.suntime-commercegrowth-custom-0-x-LoginButton),
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--lupa),
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.suntime-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer),
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--logo) {
   filter: brightness(1);
 }
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.suntime-commercegrowth-custom-0-x-LoginButton)::before,
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-LoginButton)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--lupa)::before,
-:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.suntime-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
+:global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu_mobileHamburguer)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--header__icon-wishlist)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-minicart-2-x-minicartContainer--header__minicart .vtex-minicart-2-x-minicartIconContainer)::before,
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.vtex-store-components-3-x-imageElement--logo)::before {
@@ -156,7 +156,7 @@
   }
 }
 
-:global(.suntime-commercegrowth-custom-0-x-slider__dots) :global(.swiper-pagination-bullet) {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-slider__dots) :global(.swiper-pagination-bullet) {
   width: 14px;
   height: 14px;
   border: 1px solid #ffffff;
@@ -167,7 +167,7 @@
   opacity: 1;
   position: relative;
 }
-:global(.suntime-commercegrowth-custom-0-x-slider__dots) :global(.swiper-pagination-bullet-active)::before {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-slider__dots) :global(.swiper-pagination-bullet-active)::before {
   content: "";
   width: 6px;
   height: 6px;
@@ -216,10 +216,10 @@
   opacity: 1;
 }
 
-:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.suntime-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-product-price-1-x-sellingPrice),
-:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.suntime-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-button:has(.vtex-add-to-cart-button-0-x-buttonText)),
-:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.suntime-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-availability-notify-1-x-notiferContainer),
-:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.suntime-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-store-components-3-x-skuSelectorContainer) {
+:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.atelierjuliafantin-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-product-price-1-x-sellingPrice),
+:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.atelierjuliafantin-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-button:has(.vtex-add-to-cart-button-0-x-buttonText)),
+:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.atelierjuliafantin-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-availability-notify-1-x-notiferContainer),
+:global(.vtex-flex-layout-0-x-flexRow--product__wrapper:has(.atelierjuliafantin-commercegrowth-custom-0-x-kitLook_container)) :global(.vtex-store-components-3-x-skuSelectorContainer) {
   display: none;
 }
 
@@ -291,18 +291,18 @@
   top: -12px;
 }
 
-:global(.suntime-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) {
   position: initial;
   margin-top: 50px;
 }
-:global(.suntime-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li),
-:global(.suntime-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li button) {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li),
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li button) {
   width: 6px;
   height: 6px;
   padding: 0;
   margin: 0 8px;
 }
-:global(.suntime-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li button:before) {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li button:before) {
   width: 6px;
   height: 6px;
   border: 1px solid #34354c;
@@ -311,36 +311,36 @@
   font-size: 0;
   opacity: 1;
 }
-:global(.suntime-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li.slick-active button:before) {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider .slick-dots) :global(li.slick-active button:before) {
   background: #34354c;
   opacity: 1;
 }
 
 @media (max-width: 1024px) {
-  :global(.suntime-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) {
+  :global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) {
     bottom: -45px;
     display: flex !important;
     flex-direction: row;
   }
 }
-:global(.suntime-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) li {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) li {
   display: inline;
   margin: 0;
   width: 100%;
   height: 5px;
 }
-:global(.suntime-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) button {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) button {
   width: 100%;
   height: 5px;
 }
-:global(.suntime-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) button::before {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-dots) button::before {
   content: "";
   width: 100%;
   height: 2px;
   opacity: 1;
   background: #fff;
 }
-:global(.suntime-commercegrowth-custom-0-x-shelf__images) :global(.slick-active) button::before {
+:global(.atelierjuliafantin-commercegrowth-custom-0-x-shelf__images) :global(.slick-active) button::before {
   background: #000;
 }
 

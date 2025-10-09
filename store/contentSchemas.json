@@ -6,7 +6,7 @@
           "type": "array",
           "title": "Links customizadods",
           "items": {
-            "$ref": "app:suntime.commercegrowth-custom#/definitions/CustomLinks"
+            "$ref": "app:atelierjuliafantin.commercegrowth-custom#/definitions/CustomLinks"
           }
         }
       }
@@ -29,7 +29,7 @@
           "type": "array",
           "title": "Banner",
           "items": {
-            "$ref": "app:suntime.commercegrowth-custom#/definitions/MenuBanners"
+            "$ref": "app:atelierjuliafantin.commercegrowth-custom#/definitions/MenuBanners"
           }
         },
         "hasChildren": {
@@ -40,7 +40,7 @@
           "type": "array",
           "title": "Submenu",
           "items": {
-            "$ref": "app:suntime.commercegrowth-custom#/definitions/CustomLinksItem"
+            "$ref": "app:atelierjuliafantin.commercegrowth-custom#/definitions/CustomLinksItem"
           }
         }
       }

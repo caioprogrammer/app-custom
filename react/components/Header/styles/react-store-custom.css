@@ -5,9 +5,9 @@
 @media all and (min-width: 1024px) {
   :global(.vtex-store-header-2-x-headerStickyRow--transparent):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItem) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink):hover,
   :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItem) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink):hover {
+    border-bottom: 2px solid #d392a0;
     color: #000;
     font-weight: 400;
-    border-bottom: 2px solid #d392a0;
   }
 }
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerRowBackground) {
@@ -89,8 +89,8 @@
 }
 :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--main-header) {
   width: 100%;
-  position: absolute;
   z-index: 999;
+  position: absolute;
 }
 @media (min-width: 1025px) {
   :global(.render-route-store-home) :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink) {

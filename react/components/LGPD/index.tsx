@@ -23,7 +23,7 @@ export function LGPD() {
     }, FIVE_SECONDS)
   }, [])
   return (
-    <aside className={applyModifiers(handles.lgpd, active ? 'active' : '')}>
+    <aside style={{display: 'none'}} className={applyModifiers(handles.lgpd, active ? 'active' : '')}>
       <div className={handles.lgpd__wrapper}>
         <svg
           className={handles.lgpd__icon}

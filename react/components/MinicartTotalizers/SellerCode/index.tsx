@@ -71,7 +71,7 @@ export const SellerCode = () => {
       }))
       service.marketingDataPost(
         orderForm,
-        'vendedorsuntime',
+        'vendedorjuliafantin',
         seller[0].cod,
         seller[0].name
       )

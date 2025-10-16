@@ -88,7 +88,7 @@ const ShelfSliderCustom = () => {
                   key={index}
                   className={handles.shelf__image}
                   src={
-                    'https://suntime.vtexassets.com/arquivos/ids/' +
+                    'https://atelierjuliafantin.vtexassets.com/arquivos/ids/' +
                     imageID +
                     '-500-auto/' +
                     image.imageLabel +

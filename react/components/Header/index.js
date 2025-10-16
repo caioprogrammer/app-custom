@@ -108,7 +108,7 @@ export const Header = () => {
           document
             .querySelector('.vtex-availability-notify-1-x-notiferContainer')
             .classList.remove(
-              'suntime-commercegrowth-custom-0-x-kitLookProduct_avaibility'
+              'atelierjuliafantin-commercegrowth-custom-0-x-kitLookProduct_avaibility'
             )
         }
         closeAvaibility?.addEventListener('click', handleCloseAvaibility)

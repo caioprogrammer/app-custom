@@ -76,7 +76,7 @@ export function SliderProduct() {
               >
                 <img
                   src={
-                    `https://suntime.vtexassets.com/arquivos/ids/` +
+                    `https://atelierjuliafantin.vtexassets.com/arquivos/ids/` +
                     item.imageId +
                     '/produto.webp'
                   }

@@ -14,7 +14,7 @@ export const SobMedidaButton = () => {
   if (!sobMedidaButton) {
     skuList?.insertAdjacentHTML(
       'beforeend',
-      `<a target="_blank" href="/institucional/sob-medida" class="suntime-commercegrowth-custom-0-x-SobMedida_pdp" id="SobMedidaPdpButton">
+      `<a target="_blank" href="/institucional/sob-medida" class="atelierjuliafantin-commercegrowth-custom-0-x-SobMedida_pdp" id="SobMedidaPdpButton">
       Sob Medida
     </a>`
     )

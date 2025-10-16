@@ -104,7 +104,7 @@ export const SustentabilidadeForm = ({ image }: SustentabilidadeFormProps) => {
           <p className={handles.InstitucionalForm_p}>
             queremos que você faça parte da construção da nossa marca, então
             conta pra gente como podemos fortalecer nosso trabalho em busca de
-            uma Suntime mais sustentável e afetiva?
+            uma Atelier Julia fantin mais sustentável e afetiva?
           </p>
           <form
             className={handles.InstitucionalForm_form}

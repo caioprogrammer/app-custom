@@ -57,7 +57,7 @@ export const SobMedidaSlider = ({ sliderItems }: SobMedidaSliderProps) => {
           return (
             <div
               key={`${item.title}-${Math.random()}`}
-              className={`${handles.SobMedidaSlider__container} suntime-commercegrowth-custom-0-x-SobMedidaSlider__${item.class}`}
+              className={`${handles.SobMedidaSlider__container} atelierjuliafantin-commercegrowth-custom-0-x-SobMedidaSlider__${item.class}`}
             >
               <img
                 className={handles['SobMedidaSlider__container--image']}

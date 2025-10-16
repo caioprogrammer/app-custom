@@ -2122,9 +2122,9 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-"atelierjuliafantin.commercegrowth-custom@http://atelierjuliafantin.vtexassets.com/_v/public/typings/v1/atelierjuliafantin.commercegrowth-custom@0.0.94/public/@types/atelierjuliafantin.commercegrowth-custom":
-  version "0.0.94"
-  resolved "http://atelierjuliafantin.vtexassets.com/_v/public/typings/v1/atelierjuliafantin.commercegrowth-custom@0.0.94/public/@types/atelierjuliafantin.commercegrowth-custom#3c813e89fe6922df96bc372d7729e35499455969"
+"atelierjuliafantin.commercegrowth-custom@https://atelierhomolog--atelierjuliafantin.myvtex.com/_v/private/typings/linked/v1/atelierjuliafantin.commercegrowth-custom@0.0.97+build1760549602/public/@types/atelierjuliafantin.commercegrowth-custom":
+  version "0.0.97"
+  resolved "https://atelierhomolog--atelierjuliafantin.myvtex.com/_v/private/typings/linked/v1/atelierjuliafantin.commercegrowth-custom@0.0.97+build1760549602/public/@types/atelierjuliafantin.commercegrowth-custom#28792b543e30de4740d7c5c758d94dd55fbb5eba"
 
 atob@^2.1.2:
   version "2.1.2"
@@ -5558,6 +5558,10 @@ verror@1.10.0:
   version "0.50.1"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.checkout-resources@0.50.1/public/@types/vtex.checkout-resources#f3c9cdc92df0b9c02124a0eba7cba5e5bd3b243e"
 
+"vtex.css-handles@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.1/public/@types/vtex.css-handles":
+  version "1.0.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.css-handles@1.0.1/public/@types/vtex.css-handles#9444e64afad49e3ace3461f170b7d28f29b78d07"
+
 "vtex.device-detector@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.device-detector@0.2.6/public/@types/vtex.device-detector":
   version "0.2.6"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.device-detector@0.2.6/public/@types/vtex.device-detector#3219242fa5c2f14023d33c3549c2d8de93c76d1f"
@@ -5565,6 +5569,10 @@ verror@1.10.0:
 "vtex.list-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.list-context@0.2.0/public/@types/vtex.list-context":
   version "0.2.0"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.list-context@0.2.0/public/@types/vtex.list-context#935b748d394851ced7f3b06bbedf59f4ee3ca8a6"
+
+"vtex.native-types@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types":
+  version "0.10.1"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.native-types@0.10.1/public/@types/vtex.native-types#7ddf7f34265f8902dfad93d3a13021108023a584"
 
 "vtex.order-manager@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.order-manager@0.12.0/public/@types/vtex.order-manager":
   version "0.12.0"
@@ -5585,6 +5593,10 @@ verror@1.10.0:
 "vtex.responsive-values@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.2/public/@types/vtex.responsive-values":
   version "0.4.2"
   resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.responsive-values@0.4.2/public/@types/vtex.responsive-values#ba7b7a888e931be81d64e8348d99bd6310385ac9"
+
+"vtex.search-graphql@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.69.3/public/@types/vtex.search-graphql":
+  version "0.69.3"
+  resolved "http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-graphql@0.69.3/public/@types/vtex.search-graphql#ebbeb1e1572e664f0537dda424ad1ee175434249"
 
 "vtex.search-page-context@http://vtex.vtexassets.com/_v/public/typings/v1/vtex.search-page-context@0.2.0/public/@types/vtex.search-page-context":
   version "0.2.0"

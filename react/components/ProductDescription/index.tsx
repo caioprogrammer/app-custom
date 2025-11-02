@@ -5,6 +5,7 @@ import { applyModifiers, useCssHandles } from 'vtex.css-handles'
 
 const HANDLES = [
   'productdescription',
+  'productdescription__container',
   'productdescription__toggler',
   'productdescription__wrapper',
   'productdescription__specification',
@@ -36,7 +37,7 @@ export const ProductDescription = () => {
   // console.log('vapo', product)
 
   return (
-    <>
+    <div className={handles.productdescription__container}>
       <div
         className={applyModifiers(
           handles.productdescription,
@@ -101,6 +102,6 @@ export const ProductDescription = () => {
       ) : (
         ''
       )}
-    </>
+    </div>
   )
 }

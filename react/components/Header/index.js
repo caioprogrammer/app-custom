@@ -94,7 +94,7 @@ export const Header = () => {
         '.vtex-address-form-4-x-input'
       )
       if (addressInput) {
-        addressInput.placeholder = 'digite o seu cep'
+        addressInput.placeholder = '000000-000'
         clearInterval(placeholderPdp)
       }
     }, 2000)

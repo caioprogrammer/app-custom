@@ -123,9 +123,10 @@ const LoginButton = ({ runtime, children }: LoginProps) => {
         className={handles.LoginButton}
         onClick={() => {
           loginOpen? setLoginOpen(false): setLoginOpen(true)
-          
         }}
-      ></button>
+      >
+        Login
+      </button>
 
       <div
         className={`${handles.LoginButton_containerLinks} ${

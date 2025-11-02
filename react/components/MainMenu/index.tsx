@@ -86,8 +86,8 @@ export const MainMenu = ({ customLinks }: MainMenuProps) => {
               className={handles.mainMenu_mobileLogo}
               loading="lazy"
               crossOrigin="anonymous"
-              data-src="https://atelierjuliafantin.vtexassets.com/assets/vtex/assets-builder/atelierjuliafantin.commercegrowth-store/0.0.0/icons/icon-logo___7c8581bb6c5e23f6722726d44c91e9fb.svg"
-              src="https://atelierjuliafantin.vtexassets.com/assets/vtex/assets-builder/atelierjuliafantin.commercegrowth-store/0.0.0/icons/icon-logo___7c8581bb6c5e23f6722726d44c91e9fb.svg"
+              data-src="https://atelierjuliafantin.vtexassets.com/assets/vtex.file-manager-graphql/images/6872cbb5-f764-4ce0-a1ba-1a5467d5c126___c7a041af9a2fd2a06a81734d9cdaace6.png"
+              src="https://atelierjuliafantin.vtexassets.com/assets/vtex.file-manager-graphql/images/6872cbb5-f764-4ce0-a1ba-1a5467d5c126___c7a041af9a2fd2a06a81734d9cdaace6.png"
             />
           </div>
           {orderForm.loggedIn ? (

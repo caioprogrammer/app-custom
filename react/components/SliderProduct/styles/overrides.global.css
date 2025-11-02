@@ -3,15 +3,17 @@
  * overwritten by `width: 100%;` set by `swiper-slide`.
 */
 .w-20.w-20.w-20 {
-  width: 20%;
+  width: 5%;
 }
 
 @media screen and (min-width: 40em) {
   .ml-20-ns {
-    margin-left: 20%;
+    margin-left: 5%;
   }
 }
-
+.w-80-ns {
+  width: 95% !important;
+}
 .center-all {
   margin: auto;
 }

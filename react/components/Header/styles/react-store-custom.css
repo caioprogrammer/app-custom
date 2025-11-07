@@ -5,7 +5,7 @@
 @media all and (min-width: 1024px) {
   :global(.vtex-store-header-2-x-headerStickyRow--transparent):hover :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItem) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink):hover,
   :global(.vtex-store-header-2-x-headerStickyRow--float) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenu) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItem) :global(.atelierjuliafantin-commercegrowth-custom-0-x-mainMenuItemLink):hover {
-    border-bottom: 2px solid #d392a0;
+    border-bottom: 2px solid #000000;
     color: #000;
     font-weight: 400;
   }
@@ -280,7 +280,7 @@
 
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.pr5.mw6-ns.lh-copy) {
   color: #000000;
-  font-family: "Ubuntu Condensed";
+  font-family: "Calibri";
   font-size: 25px;
   font-style: normal;
   font-weight: 400;
@@ -301,13 +301,13 @@
 }
 
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.vtex-button):hover {
-  background: #fce9f1;
+  background: #fdfdfd;
   border-color: transparent;
 }
 
 :global(.vtex-toast-container) :global(.vtex-toast) :global(.vtex-button) :global(.vtex-button__label) {
   color: #626567;
-  font-family: "Ubuntu Condensed";
+  font-family: "Calibri";
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -476,8 +476,8 @@
 :global(.vtex-account__page-body .t-heading-4.mt0),
 :global(.vtex-account__page-body .t-heading-5.c-on-base),
 :global(.vtex-account__page-body .t-heading-4.mt0 .c-on-base) {
-  color: #d392a0 !important;
-  font-family: "Ubuntu Condensed";
+  color: #000000 !important;
+  font-family: "Calibri";
   font-size: 24px;
   font-style: normal;
   font-weight: 400;
@@ -507,12 +507,12 @@
 }
 
 :global(.vtex-my-orders-app-3-x-reorderBtn svg) {
-  fill: #d392a0;
+  fill: #000000;
 }
 
 :global(.vtex-my-orders-app-3-x-productName) {
   color: #34354c;
-  font-family: "Ubuntu Condensed";
+  font-family: "Calibri";
   font-size: 14px;
   font-style: normal;
   font-weight: 400;

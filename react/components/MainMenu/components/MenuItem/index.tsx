@@ -72,7 +72,7 @@ export const MenuItem = ({
             className={applyModifiers(handles.subMenu, open ? 'active' : '')}
           >
             <ul className={handles.subMenuContainer}>
-              <div className={handles.subMenuContainerLinks}>
+              <div className={`${handles.subMenuContainerLinks} ${banners?.length <= 0 ? 'justify-start' : ''}` }>
                 {children?.map((item: CustomLinksItem, i: number) => {
                   return (
                     <SubmenuItem
@@ -86,7 +86,7 @@ export const MenuItem = ({
                   )
                 })}
               </div>
-              {!isMobile && (
+              {!isMobile && banners?.length > 0 && (
                 <div className={handles.imageMenuContainer}>
                   {banners?.map((item: MenuBanners) => {
                     return (
@@ -121,7 +121,7 @@ export const MenuItem = ({
       {hasChildren && (
         <div className={handles.subMenu}>
           <ul className={handles.subMenuContainer}>
-            <div className={handles.subMenuContainerLinks}>
+            <div className={`${handles.subMenuContainerLinks} ${banners?.length <= 0 ? 'justify-center mr0' : ''}`}>
               {children?.map((item: CustomLinksItem, i: number) => {
                 return (
                   <SubmenuItem
@@ -134,25 +134,26 @@ export const MenuItem = ({
                 )
               })}
             </div>
-
-            <div className={handles.imageMenuContainer}>
-              {banners?.map((item: MenuBanners) => {
-                return (
-                  <Link
-                    className={handles.imageMenuLink}
-                    to={item?.link}
-                    key={`${item?.link}-${Math.random()}`}
-                  >
-                    <img
-                      className={handles.imageMenu}
-                      src={item?.image}
-                      alt={item?.name}
-                    />
-                    <h2 className={handles.imageMenuName}>{item.name}</h2>
-                  </Link>
-                )
-              })}
-            </div>
+            {banners?.length > 0 && (
+              <div className={handles.imageMenuContainer}>
+                {banners?.map((item: MenuBanners) => {
+                  return (
+                    <Link
+                      className={handles.imageMenuLink}
+                      to={item?.link}
+                      key={`${item?.link}-${Math.random()}`}
+                    >
+                      <img
+                        className={handles.imageMenu}
+                        src={item?.image}
+                        alt={item?.name}
+                      />
+                      <h2 className={handles.imageMenuName}>{item.name}</h2>
+                    </Link>
+                  )
+                })}
+              </div>
+            )}
           </ul>
         </div>
       )}

@@ -545,8 +545,3 @@
 :global(.vtex-store-components-3-x-headingLevel2--qs__info-cards--item-action-saiba-mais:hover ~ .vtex-store-components-3-x-paragraph--qs__info-cards--item-action-saiba-mais:last-child) {
   max-height: 400px !important;
 }
-
-
-:global(.render-route-store-home) .shelf__image {
-  filter: grayscale(1);
-}
